@@ -2,6 +2,5 @@
   "appId": "it.unimi.foodsystems.guidelines",
   "appName": "FoodSystems Guidelines",
   "webDir": "web",
-  "WebDir": "web",
   "bundledWebRuntime": false
 }
