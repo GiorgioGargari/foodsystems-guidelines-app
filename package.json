@@ -1,16 +1,15 @@
 {
-  "name": "fs-guidelines-capacitor",
+  "name": "foodsystems-guidelines",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "echo \"no web build\"",
+    "sync": "npx cap sync"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "@capacitor/cli": "^7.4.4",
-    "@capacitor/core": "^7.4.4"
+    "@capacitor/core": "^6.1.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.0"
   }
 }
