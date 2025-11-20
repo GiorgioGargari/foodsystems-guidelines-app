@@ -4,3 +4,4 @@ ios/
 build/
 dist/
 www/
+android/app/*.jks
